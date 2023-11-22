@@ -1,2 +1,2 @@
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+# Mandau Bekarat
+###### Makin Berkarat Makin Sakit
