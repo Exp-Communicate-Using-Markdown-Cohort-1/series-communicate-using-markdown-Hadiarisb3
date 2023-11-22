@@ -1,1 +1,8 @@
 3
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
